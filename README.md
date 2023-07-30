@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
-CodeWeave is a platform for developers to share and collaborate on code snippets. It is a place where you can find solutions to your coding problems, and also contribute your own solutions to help others. It is a place where you can find inspiration for your next project, and also share your own ideas to inspire others.
+CodeWeave is a platform for developers to share and collaborate on code snippets. It is a place where you can find solutions to your coding problems and also contribute your own solutions to help others. It is a place where you can find inspiration for your next project, and also share your own ideas to inspire others.
 
 ## Getting Started
 
